@@ -7,7 +7,7 @@ All the PNG files were copied from Google Images by *right-clicking on the image
 
 The `metadata.csv` file contains 4 columns:
 | Column Name       | Description                                                                                                            |
-| ---               | ---                                                                                                                    |
+| :---               | :---                                                                                                                    |
 | filename          | States the name of the file in the `dataset` directory.                                                                |
 | dog_breed         | States the name of the dog breed that is pictured in the file.                                                         |
 | fluffyness_level  | Ranks the comparative fluffyness of the dog breeds from 1 - 4, with 1 being the most and 4 being the least fluffy.[^1] |
