@@ -1,3 +1,3 @@
 # Assignment_1
-Course: Database Design__
+Course: Database Design  
 MA: Digital Humanities
