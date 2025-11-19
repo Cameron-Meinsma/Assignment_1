@@ -1,5 +1,5 @@
 # Assignment_1
-### MA: Digital Humanities | Course: Database Design
+### MA: Digital Humanities | Course: Collecting Data
 
 The `dataset` directory contains four PNG files. Each of these files is a picture of a different sled dog breed.
 
